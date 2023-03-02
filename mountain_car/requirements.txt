@@ -1,0 +1,3 @@
+gymnasium[classic-control]
+moviepy
+progressbar2
