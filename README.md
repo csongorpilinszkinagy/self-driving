@@ -1,21 +1,13 @@
 # self-driving
-
 - [ ] 1D driving task (observation space 1D, action space 1D)
-  - Mountain Car Continuous
-  - https://gymnasium.farama.org/environments/classic_control/mountain_car_continuous/
+  - [x] [Mountain Car](https://gymnasium.farama.org/environments/classic_control/mountain_car/)
+  - [ ] [Mountain Car Continuous](https://gymnasium.farama.org/environments/classic_control/mountain_car_continuous/)
 - [ ] 1.5D driving task (observation space 2D, action space 1D)
-  - Enduro
-  - https://www.gymlibrary.dev/environments/atari/enduro/
+  - [ ] [Enduro](https://www.gymlibrary.dev/environments/atari/enduro/)
 - [ ] 2D driving task (observation space 2D, action space 2D)
-  - Car Racing
-  - https://gymnasium.farama.org/environments/box2d/car_racing/
+  - [ ] [Car Racing](https://gymnasium.farama.org/environments/box2d/car_racing/)
 - [ ] 2.5D driving task (environment 3D, observation space 2D, action space 2D)
-  - [ ] Simple
-    - Duckietown
-    - https://github.com/duckietown/gym-duckietown
-  - [ ] Real
-    - CARLA
-    - https://carla.readthedocs.io/en/latest/python_api/
+  - [ ] [Duckietown](https://github.com/duckietown/gym-duckietown)
+  - [ ] [CARLA](https://carla.readthedocs.io/en/latest/python_api/)
 - [ ] 3D driving task (actually flying)
-  - Flight simulator
-  - https://github.com/Gor-Ren/gym-jsbsim
+  - [ ] [Flight simulator](https://github.com/Gor-Ren/gym-jsbsim)
